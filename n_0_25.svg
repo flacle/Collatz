@@ -3,6 +3,7 @@
      width="2200.0" height="2200.0" viewBox="0 -2200.0 2200.0 2200.0">
 <defs>
 </defs>
+<rect width="2200.0" height="2200.0" rx="0" />
 <path stroke="black" d="M250,-1100.0 L1950.0,-1100.0" />
 <circle r="9" stroke-width="2.3512492185517644" cy="-1100.0" stroke="black" fill="white" cx="250.0" />
 <text x="250.0" transform="translate(0,4.5)" font-size="9.0" y="-1102.0" text-anchor="middle" fill="black">1</text>

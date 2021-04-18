@@ -1,6 +1,6 @@
 # Collatz Parity Map
 Arc diagram visualization of the parity reformulation of the Collatz function from the famous conjecture.
-![Clockwise arc diagram of orbits from the parity Collatz function for n0=25](https://github.com/flacle/Collatz/n_0_25.svg?raw=true)
+![Clockwise arc diagram of orbits from the parity Collatz function for n0=25](https://github.com/flacle/Collatz/blob/main/n_0_25.svg?raw=true)
 
 ## Features
 1. Show or hide differences between increments or decrements of n_{t} - n_{t-1} (edgeLabels = True/False)

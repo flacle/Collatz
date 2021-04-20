@@ -1,5 +1,5 @@
 # Collatz Parity Map
-Arc diagram visualization of the parity reformulation of the Collatz function from the famous conjecture.
+Clockwise arc diagram visualization of the parity reformulation of the Collatz function from the paper [2-adic parity explorations of the 3n+1 problem](https://hal.archives-ouvertes.fr/hal-03201180/document).
 <br />&nbsp;<br />
 ![Clockwise arc diagram of orbits from the parity Collatz function for n0=25](https://github.com/flacle/Collatz/blob/main/n_0_25.svg?raw=true)
 
@@ -16,4 +16,4 @@ Arc diagram visualization of the parity reformulation of the Collatz function fr
    1. drawSvg
    1. functools
 
-*Part of a working paper...*
+*Part of the paper [2-adic parity explorations of the 3n+1 problem](https://hal.archives-ouvertes.fr/hal-03201180/document).*
